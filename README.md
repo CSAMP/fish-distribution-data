@@ -1,11 +1,14 @@
-# fish-distribution-data
+# Delta Smelt Distribution Data
 This repository contains data describing Delta Smelt distribution in the Delta from 1995-2015
 
+# Data Format
+The `DS_distribution_JanDec_1995_2015.txt` is a matrix. Rows represent time (months) and columns 3-14 represnt regions. Each row contains a month, year, and the observed occupancy probabilities of regions studied. Columns 1 and 2 indicate the year and month, respectivley. Data for the 12 spatial strata are ordered Sacramento R., South Delta, East Delta,
+Lower Sacramento R., Lower San Joaquin R., Confluence, SE Suisun, NE Suisun, Suisun Marsh, SW Suisun, NW Suisun, Yolo Bypass.
+
 # Methods for Preparing Fish Distribution Data for Model Input 
-by: Will Smith 
+by Will Smith 
 
-
-Fish distribution. Observed delta smelt distributions DS<sub>yms</sub> were developed from 20-mm, Midwater Trawl, and Spring Kodiak Surveys.
+Observed delta smelt distributions DS<sub>yms</sub> were developed from 20-mm, Midwater Trawl, and Spring Kodiak Surveys.
 Townet Survey data were not used, because tow volume data were unavailable before 2003, use of Townet data would only leverage one additional 
 month of distribution information (August), and in most year-months with a concurrent 20-mm Survey sample, delta smelt were observed in fewer
 spatial strata in the Townet Survey (in 7 of 13 years). Fish survey data were made available online by [CDFW](ftp://ftp.dfg.ca.gov/). 
