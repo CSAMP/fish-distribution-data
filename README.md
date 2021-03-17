@@ -2,7 +2,7 @@
 This repository contains data describing Delta Smelt distribution in the Delta from 1995-2015
 
 # Data Format
-The `DS_distribution_JanDec_1995_2015.txt` is a matrix. Rows represent time (months) and columns 3-14 represnt regions. Each row contains a month, year, and the observed occupancy probabilities of regions studied. Columns 1 and 2 indicate the year and month, respectivley. Data for the 12 spatial strata are ordered Sacramento R., South Delta, East Delta,
+The `DS_distribution_JanDec_1995_2015.txt` is a matrix. Rows represent time (months) and columns 3-14 represnt regions. Each row contains the month, year, and the observed occupancy probabilities of regions studied. Columns 1 and 2 indicate the year and month, respectivley. Data for the 12 spatial strata are ordered Sacramento R., South Delta, East Delta,
 Lower Sacramento R., Lower San Joaquin R., Confluence, SE Suisun, NE Suisun, Suisun Marsh, SW Suisun, NW Suisun, Yolo Bypass.
 
 # Methods for Preparing Fish Distribution Data for Model Input 
