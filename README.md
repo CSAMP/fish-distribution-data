@@ -6,7 +6,7 @@ The `DS_distribution_JanDec_1995_2015.txt` is a matrix. Rows represent time (mon
 Lower Sacramento R., Lower San Joaquin R., Confluence, SE Suisun, NE Suisun, Suisun Marsh, SW Suisun, NW Suisun, Yolo Bypass.
 
 # Methods for Preparing Fish Distribution Data for Model Input 
-by Will Smith 
+by [Will Smith](mailto:william_e_smith@fws.gov) 
 
 Observed delta smelt distributions DS<sub>yms</sub> were developed from 20-mm, Midwater Trawl, and Spring Kodiak Surveys.
 Townet Survey data were not used, because tow volume data were unavailable before 2003, use of Townet data would only leverage one additional 
